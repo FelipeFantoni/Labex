@@ -2,391 +2,1103 @@
   "nodes": [
     {
       "nameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2014-12-24T17:49:19Z",
+      "pullRequests": { "totalCount": 23565 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T00:36:29Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 14043 },
+      "totalIssues": { "totalCount": 14203 },
+      "stargazers": { "totalCount": 308747 }
     },
     {
       "nameWithOwner": "996icu/996.ICU",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UyNDk=", "name": "Rust" }
+      "createdAt": "2019-03-26T07:31:14Z",
+      "pullRequests": { "totalCount": 1832 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:48:57Z",
+      "primaryLanguage": { "name": "Rust" },
+      "closedIssues": { "totalCount": 0 },
+      "totalIssues": { "totalCount": 0 },
+      "stargazers": { "totalCount": 249132 }
     },
     {
       "nameWithOwner": "vuejs/vue",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2013-07-29T03:24:51Z",
+      "pullRequests": { "totalCount": 1735 },
+      "releases": { "totalCount": 208 },
+      "updatedAt": "2020-02-20T01:19:30Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 8505 },
+      "totalIssues": { "totalCount": 8799 },
+      "stargazers": { "totalCount": 157166 }
     },
     {
       "nameWithOwner": "facebook/react",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2013-05-24T16:15:54Z",
+      "pullRequests": { "totalCount": 9109 },
+      "releases": { "totalCount": 88 },
+      "updatedAt": "2020-02-20T01:58:11Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 8315 },
+      "totalIssues": { "totalCount": 8798 },
+      "stargazers": { "totalCount": 144021 }
     },
     {
       "nameWithOwner": "tensorflow/tensorflow",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDI=", "name": "C++" }
+      "createdAt": "2015-11-07T01:19:20Z",
+      "pullRequests": { "totalCount": 13568 },
+      "releases": { "totalCount": 99 },
+      "updatedAt": "2020-02-20T01:58:11Z",
+      "primaryLanguage": { "name": "C++" },
+      "closedIssues": { "totalCount": 20000 },
+      "totalIssues": { "totalCount": 23140 },
+      "stargazers": { "totalCount": 141109 }
     },
     {
       "nameWithOwner": "twbs/bootstrap",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2011-07-29T21:19:00Z",
+      "pullRequests": { "totalCount": 10589 },
+      "releases": { "totalCount": 57 },
+      "updatedAt": "2020-02-20T01:33:11Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 18763 },
+      "totalIssues": { "totalCount": 19092 },
+      "stargazers": { "totalCount": 138684 }
     },
     {
       "nameWithOwner": "EbookFoundation/free-programming-books",
-      "primaryLanguage": null
+      "createdAt": "2013-10-11T06:50:37Z",
+      "pullRequests": { "totalCount": 3043 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:43:10Z",
+      "primaryLanguage": null,
+      "closedIssues": { "totalCount": 393 },
+      "totalIssues": { "totalCount": 413 },
+      "stargazers": { "totalCount": 137272 }
     },
-    { "nameWithOwner": "sindresorhus/awesome", "primaryLanguage": null },
-    { "nameWithOwner": "getify/You-Dont-Know-JS", "primaryLanguage": null },
+    {
+      "nameWithOwner": "sindresorhus/awesome",
+      "createdAt": "2014-07-11T13:42:37Z",
+      "pullRequests": { "totalCount": 1432 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:57:46Z",
+      "primaryLanguage": null,
+      "closedIssues": { "totalCount": 229 },
+      "totalIssues": { "totalCount": 241 },
+      "stargazers": { "totalCount": 126205 }
+    },
+    {
+      "nameWithOwner": "getify/You-Dont-Know-JS",
+      "createdAt": "2013-11-16T02:37:24Z",
+      "pullRequests": { "totalCount": 778 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:26:14Z",
+      "primaryLanguage": null,
+      "closedIssues": { "totalCount": 739 },
+      "totalIssues": { "totalCount": 816 },
+      "stargazers": { "totalCount": 117408 }
+    },
     {
       "nameWithOwner": "ohmyzsh/ohmyzsh",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxMzk=", "name": "Shell" }
+      "createdAt": "2009-08-28T18:15:37Z",
+      "pullRequests": { "totalCount": 5423 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:36:05Z",
+      "primaryLanguage": { "name": "Shell" },
+      "closedIssues": { "totalCount": 2997 },
+      "totalIssues": { "totalCount": 3202 },
+      "stargazers": { "totalCount": 103655 }
     },
     {
       "nameWithOwner": "jwasham/coding-interview-university",
-      "primaryLanguage": null
+      "createdAt": "2016-06-06T02:34:12Z",
+      "pullRequests": { "totalCount": 368 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:40:57Z",
+      "primaryLanguage": null,
+      "closedIssues": { "totalCount": 78 },
+      "totalIssues": { "totalCount": 104 },
+      "stargazers": { "totalCount": 98032 }
     },
     {
       "nameWithOwner": "kamranahmedse/developer-roadmap",
-      "primaryLanguage": null
+      "createdAt": "2017-03-15T13:45:52Z",
+      "pullRequests": { "totalCount": 131 },
+      "releases": { "totalCount": 3 },
+      "updatedAt": "2020-02-20T01:56:53Z",
+      "primaryLanguage": null,
+      "closedIssues": { "totalCount": 389 },
+      "totalIssues": { "totalCount": 397 },
+      "stargazers": { "totalCount": 96037 }
     },
-    { "nameWithOwner": "github/gitignore", "primaryLanguage": null },
+    {
+      "nameWithOwner": "github/gitignore",
+      "createdAt": "2010-11-08T20:17:14Z",
+      "pullRequests": { "totalCount": 3270 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:14:25Z",
+      "primaryLanguage": null,
+      "closedIssues": { "totalCount": 0 },
+      "totalIssues": { "totalCount": 0 },
+      "stargazers": { "totalCount": 95418 }
+    },
     {
       "nameWithOwner": "airbnb/javascript",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2012-11-01T23:13:50Z",
+      "pullRequests": { "totalCount": 1190 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T02:03:46Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 877 },
+      "totalIssues": { "totalCount": 956 },
+      "stargazers": { "totalCount": 92734 }
     },
     {
       "nameWithOwner": "microsoft/vscode",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UyODc=", "name": "TypeScript" }
+      "createdAt": "2015-09-03T20:23:38Z",
+      "pullRequests": { "totalCount": 6716 },
+      "releases": { "totalCount": 3 },
+      "updatedAt": "2020-02-19T23:59:27Z",
+      "primaryLanguage": { "name": "TypeScript" },
+      "closedIssues": { "totalCount": 78649 },
+      "totalIssues": { "totalCount": 83160 },
+      "stargazers": { "totalCount": 91700 }
     },
     {
       "nameWithOwner": "CyC2018/CS-Notes",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNTg=", "name": "Java" }
+      "createdAt": "2018-02-13T14:56:24Z",
+      "pullRequests": { "totalCount": 464 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T02:03:46Z",
+      "primaryLanguage": { "name": "Java" },
+      "closedIssues": { "totalCount": 350 },
+      "totalIssues": { "totalCount": 373 },
+      "stargazers": { "totalCount": 91206 }
     },
     {
       "nameWithOwner": "d3/d3",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2010-09-27T17:22:42Z",
+      "pullRequests": { "totalCount": 1093 },
+      "releases": { "totalCount": 153 },
+      "updatedAt": "2020-02-20T01:48:39Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 2025 },
+      "totalIssues": { "totalCount": 2028 },
+      "stargazers": { "totalCount": 90014 }
     },
     {
       "nameWithOwner": "flutter/flutter",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UyNzc=", "name": "Dart" }
+      "createdAt": "2015-03-06T22:54:58Z",
+      "pullRequests": { "totalCount": 18451 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:54:43Z",
+      "primaryLanguage": { "name": "Dart" },
+      "closedIssues": { "totalCount": 25121 },
+      "totalIssues": { "totalCount": 32496 },
+      "stargazers": { "totalCount": 86942 }
     },
     {
       "nameWithOwner": "torvalds/linux",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDk=", "name": "C" }
+      "createdAt": "2011-09-04T22:48:12Z",
+      "pullRequests": { "totalCount": 757 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T02:03:51Z",
+      "primaryLanguage": { "name": "C" },
+      "closedIssues": { "totalCount": 0 },
+      "totalIssues": { "totalCount": 0 },
+      "stargazers": { "totalCount": 86740 }
     },
     {
       "nameWithOwner": "facebook/react-native",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2015-01-09T18:10:16Z",
+      "pullRequests": { "totalCount": 9119 },
+      "releases": { "totalCount": 137 },
+      "updatedAt": "2020-02-20T02:01:59Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 18076 },
+      "totalIssues": { "totalCount": 18795 },
+      "stargazers": { "totalCount": 85011 }
     },
     {
       "nameWithOwner": "donnemartin/system-design-primer",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDU=", "name": "Python" }
+      "createdAt": "2017-02-26T16:15:28Z",
+      "pullRequests": { "totalCount": 252 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:59:23Z",
+      "primaryLanguage": { "name": "Python" },
+      "closedIssues": { "totalCount": 30 },
+      "totalIssues": { "totalCount": 109 },
+      "stargazers": { "totalCount": 83359 }
     },
     {
       "nameWithOwner": "electron/electron",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDI=", "name": "C++" }
+      "createdAt": "2013-04-12T01:47:36Z",
+      "pullRequests": { "totalCount": 9723 },
+      "releases": { "totalCount": 519 },
+      "updatedAt": "2020-02-19T23:10:38Z",
+      "primaryLanguage": { "name": "C++" },
+      "closedIssues": { "totalCount": 11126 },
+      "totalIssues": { "totalCount": 12384 },
+      "stargazers": { "totalCount": 80776 }
     },
     {
       "nameWithOwner": "vinta/awesome-python",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDU=", "name": "Python" }
+      "createdAt": "2014-06-27T21:00:06Z",
+      "pullRequests": { "totalCount": 1316 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T02:00:36Z",
+      "primaryLanguage": { "name": "Python" },
+      "closedIssues": { "totalCount": 160 },
+      "totalIssues": { "totalCount": 161 },
+      "stargazers": { "totalCount": 79419 }
     },
     {
       "nameWithOwner": "jackfrued/Python-100-Days",
-      "primaryLanguage": {
-        "id": "MDg6TGFuZ3VhZ2U0ODk=",
-        "name": "Jupyter Notebook"
-      }
+      "createdAt": "2018-03-01T16:05:52Z",
+      "pullRequests": { "totalCount": 161 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:41:02Z",
+      "primaryLanguage": { "name": "Jupyter Notebook" },
+      "closedIssues": { "totalCount": 55 },
+      "totalIssues": { "totalCount": 281 },
+      "stargazers": { "totalCount": 78443 }
     },
     {
       "nameWithOwner": "facebook/create-react-app",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2016-07-17T14:55:11Z",
+      "pullRequests": { "totalCount": 3013 },
+      "releases": { "totalCount": 73 },
+      "updatedAt": "2020-02-20T01:06:20Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 5023 },
+      "totalIssues": { "totalCount": 5456 },
+      "stargazers": { "totalCount": 76208 }
     },
     {
       "nameWithOwner": "public-apis/public-apis",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDU=", "name": "Python" }
+      "createdAt": "2016-03-20T23:49:42Z",
+      "pullRequests": { "totalCount": 1031 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T02:05:02Z",
+      "primaryLanguage": { "name": "Python" },
+      "closedIssues": { "totalCount": 119 },
+      "totalIssues": { "totalCount": 122 },
+      "stargazers": { "totalCount": 70859 }
     },
     {
       "nameWithOwner": "axios/axios",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2014-08-18T22:30:27Z",
+      "pullRequests": { "totalCount": 626 },
+      "releases": { "totalCount": 22 },
+      "updatedAt": "2020-02-20T01:47:34Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 1850 },
+      "totalIssues": { "totalCount": 2134 },
+      "stargazers": { "totalCount": 69795 }
     },
     {
       "nameWithOwner": "golang/go",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxOTA=", "name": "Go" }
+      "createdAt": "2014-08-19T04:33:40Z",
+      "pullRequests": { "totalCount": 1004 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T02:03:35Z",
+      "primaryLanguage": { "name": "Go" },
+      "closedIssues": { "totalCount": 30820 },
+      "totalIssues": { "totalCount": 36154 },
+      "stargazers": { "totalCount": 69124 }
     },
     {
       "nameWithOwner": "jlevy/the-art-of-command-line",
-      "primaryLanguage": null
+      "createdAt": "2015-05-20T15:11:03Z",
+      "pullRequests": { "totalCount": 499 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:42:49Z",
+      "primaryLanguage": null,
+      "closedIssues": { "totalCount": 77 },
+      "totalIssues": { "totalCount": 155 },
+      "stargazers": { "totalCount": 69098 }
     },
     {
       "nameWithOwner": "Snailclimb/JavaGuide",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNTg=", "name": "Java" }
+      "createdAt": "2018-05-07T13:27:00Z",
+      "pullRequests": { "totalCount": 354 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T02:03:19Z",
+      "primaryLanguage": { "name": "Java" },
+      "closedIssues": { "totalCount": 263 },
+      "totalIssues": { "totalCount": 288 },
+      "stargazers": { "totalCount": 69065 }
     },
     {
       "nameWithOwner": "nodejs/node",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2014-11-26T19:57:11Z",
+      "pullRequests": { "totalCount": 20222 },
+      "releases": { "totalCount": 147 },
+      "updatedAt": "2020-02-19T22:12:33Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 10219 },
+      "totalIssues": { "totalCount": 11133 },
+      "stargazers": { "totalCount": 67757 }
     },
     {
       "nameWithOwner": "TheAlgorithms/Python",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDU=", "name": "Python" }
+      "createdAt": "2016-07-16T09:44:01Z",
+      "pullRequests": { "totalCount": 1523 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-19T21:36:59Z",
+      "primaryLanguage": { "name": "Python" },
+      "closedIssues": { "totalCount": 216 },
+      "totalIssues": { "totalCount": 228 },
+      "stargazers": { "totalCount": 67207 }
     },
     {
       "nameWithOwner": "daneden/animate.css",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UzMDg=", "name": "CSS" }
+      "createdAt": "2011-10-12T10:07:38Z",
+      "pullRequests": { "totalCount": 330 },
+      "releases": { "totalCount": 19 },
+      "updatedAt": "2020-02-20T00:31:51Z",
+      "primaryLanguage": { "name": "CSS" },
+      "closedIssues": { "totalCount": 659 },
+      "totalIssues": { "totalCount": 689 },
+      "stargazers": { "totalCount": 64877 }
     },
     {
       "nameWithOwner": "kubernetes/kubernetes",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxOTA=", "name": "Go" }
+      "createdAt": "2014-06-06T22:56:04Z",
+      "pullRequests": { "totalCount": 54577 },
+      "releases": { "totalCount": 373 },
+      "updatedAt": "2020-02-20T00:12:23Z",
+      "primaryLanguage": { "name": "Go" },
+      "closedIssues": { "totalCount": 31567 },
+      "totalIssues": { "totalCount": 33734 },
+      "stargazers": { "totalCount": 63350 }
     },
     {
       "nameWithOwner": "justjavac/free-programming-books-zh_CN",
-      "primaryLanguage": null
+      "createdAt": "2013-11-04T01:59:19Z",
+      "pullRequests": { "totalCount": 395 },
+      "releases": { "totalCount": 3 },
+      "updatedAt": "2020-02-20T01:37:58Z",
+      "primaryLanguage": null,
+      "closedIssues": { "totalCount": 208 },
+      "totalIssues": { "totalCount": 343 },
+      "stargazers": { "totalCount": 63317 }
     },
     {
       "nameWithOwner": "FortAwesome/Font-Awesome",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2012-02-17T14:19:43Z",
+      "pullRequests": { "totalCount": 590 },
+      "releases": { "totalCount": 35 },
+      "updatedAt": "2020-02-20T00:23:17Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 10418 },
+      "totalIssues": { "totalCount": 15557 },
+      "stargazers": { "totalCount": 62115 }
     },
     {
       "nameWithOwner": "trekhleb/javascript-algorithms",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2018-03-24T07:47:04Z",
+      "pullRequests": { "totalCount": 333 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-19T23:10:33Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 74 },
+      "totalIssues": { "totalCount": 123 },
+      "stargazers": { "totalCount": 62045 }
     },
     {
       "nameWithOwner": "ytdl-org/youtube-dl",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDU=", "name": "Python" }
+      "createdAt": "2010-10-31T14:35:07Z",
+      "pullRequests": { "totalCount": 3670 },
+      "releases": { "totalCount": 287 },
+      "updatedAt": "2020-02-20T01:48:01Z",
+      "primaryLanguage": { "name": "Python" },
+      "closedIssues": { "totalCount": 16689 },
+      "totalIssues": { "totalCount": 19302 },
+      "stargazers": { "totalCount": 61804 }
     },
     {
       "nameWithOwner": "tensorflow/models",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDU=", "name": "Python" }
+      "createdAt": "2016-02-05T01:15:20Z",
+      "pullRequests": { "totalCount": 2978 },
+      "releases": { "totalCount": 10 },
+      "updatedAt": "2020-02-20T02:04:23Z",
+      "primaryLanguage": { "name": "Python" },
+      "closedIssues": { "totalCount": 4028 },
+      "totalIssues": { "totalCount": 5061 },
+      "stargazers": { "totalCount": 61750 }
     },
     {
       "nameWithOwner": "danistefanovic/build-your-own-x",
-      "primaryLanguage": null
+      "createdAt": "2018-05-09T12:03:18Z",
+      "pullRequests": { "totalCount": 130 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:44:18Z",
+      "primaryLanguage": null,
+      "closedIssues": { "totalCount": 255 },
+      "totalIssues": { "totalCount": 297 },
+      "stargazers": { "totalCount": 60360 }
     },
     {
       "nameWithOwner": "angular/angular.js",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2010-01-06T00:34:37Z",
+      "pullRequests": { "totalCount": 7899 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-19T18:50:52Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 8585 },
+      "totalIssues": { "totalCount": 8975 },
+      "stargazers": { "totalCount": 59647 }
     },
     {
       "nameWithOwner": "puppeteer/puppeteer",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2017-05-09T22:16:13Z",
+      "pullRequests": { "totalCount": 1729 },
+      "releases": { "totalCount": 36 },
+      "updatedAt": "2020-02-20T01:34:06Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 2864 },
+      "totalIssues": { "totalCount": 3676 },
+      "stargazers": { "totalCount": 58717 }
     },
     {
       "nameWithOwner": "mrdoob/three.js",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2010-03-23T18:58:01Z",
+      "pullRequests": { "totalCount": 9159 },
+      "releases": { "totalCount": 105 },
+      "updatedAt": "2020-02-20T02:04:16Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 8981 },
+      "totalIssues": { "totalCount": 9475 },
+      "stargazers": { "totalCount": 58526 }
     },
     {
       "nameWithOwner": "microsoft/TypeScript",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UyODc=", "name": "TypeScript" }
+      "createdAt": "2014-06-17T15:28:39Z",
+      "pullRequests": { "totalCount": 10933 },
+      "releases": { "totalCount": 96 },
+      "updatedAt": "2020-02-20T01:55:23Z",
+      "primaryLanguage": { "name": "TypeScript" },
+      "closedIssues": { "totalCount": 21073 },
+      "totalIssues": { "totalCount": 25186 },
+      "stargazers": { "totalCount": 58123 }
     },
     {
       "nameWithOwner": "angular/angular",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UyODc=", "name": "TypeScript" }
+      "createdAt": "2014-09-18T16:12:01Z",
+      "pullRequests": { "totalCount": 15269 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:45:09Z",
+      "primaryLanguage": { "name": "TypeScript" },
+      "closedIssues": { "totalCount": 17147 },
+      "totalIssues": { "totalCount": 20046 },
+      "stargazers": { "totalCount": 57954 }
     },
     {
       "nameWithOwner": "microsoft/terminal",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDI=", "name": "C++" }
+      "createdAt": "2017-08-11T18:38:22Z",
+      "pullRequests": { "totalCount": 938 },
+      "releases": { "totalCount": 18 },
+      "updatedAt": "2020-02-20T01:41:43Z",
+      "primaryLanguage": { "name": "C++" },
+      "closedIssues": { "totalCount": 2840 },
+      "totalIssues": { "totalCount": 3697 },
+      "stargazers": { "totalCount": 57907 }
     },
     {
       "nameWithOwner": "laravel/laravel",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNTE=", "name": "PHP" }
+      "createdAt": "2011-06-08T03:06:08Z",
+      "pullRequests": { "totalCount": 3577 },
+      "releases": { "totalCount": 30 },
+      "updatedAt": "2020-02-20T01:57:12Z",
+      "primaryLanguage": { "name": "PHP" },
+      "closedIssues": { "totalCount": 0 },
+      "totalIssues": { "totalCount": 0 },
+      "stargazers": { "totalCount": 57644 }
     },
     {
       "nameWithOwner": "ant-design/ant-design",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UyODc=", "name": "TypeScript" }
+      "createdAt": "2015-04-24T15:37:24Z",
+      "pullRequests": { "totalCount": 5806 },
+      "releases": { "totalCount": 318 },
+      "updatedAt": "2020-02-19T23:16:57Z",
+      "primaryLanguage": { "name": "TypeScript" },
+      "closedIssues": { "totalCount": 15220 },
+      "totalIssues": { "totalCount": 15637 },
+      "stargazers": { "totalCount": 56456 }
     },
     {
       "nameWithOwner": "moby/moby",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxOTA=", "name": "Go" }
+      "createdAt": "2013-01-18T18:10:57Z",
+      "pullRequests": { "totalCount": 20503 },
+      "releases": { "totalCount": 80 },
+      "updatedAt": "2020-02-19T21:53:53Z",
+      "primaryLanguage": { "name": "Go" },
+      "closedIssues": { "totalCount": 16347 },
+      "totalIssues": { "totalCount": 19977 },
+      "stargazers": { "totalCount": 56398 }
     },
     {
       "nameWithOwner": "iluwatar/java-design-patterns",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNTg=", "name": "Java" }
+      "createdAt": "2014-08-09T16:45:18Z",
+      "pullRequests": { "totalCount": 651 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-19T23:46:21Z",
+      "primaryLanguage": { "name": "Java" },
+      "closedIssues": { "totalCount": 368 },
+      "totalIssues": { "totalCount": 524 },
+      "stargazers": { "totalCount": 55424 }
     },
-    { "nameWithOwner": "ossu/computer-science", "primaryLanguage": null },
+    {
+      "nameWithOwner": "ossu/computer-science",
+      "createdAt": "2014-05-04T00:18:39Z",
+      "pullRequests": { "totalCount": 225 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T02:03:36Z",
+      "primaryLanguage": null,
+      "closedIssues": { "totalCount": 411 },
+      "totalIssues": { "totalCount": 419 },
+      "stargazers": { "totalCount": 55068 }
+    },
     {
       "nameWithOwner": "30-seconds/30-seconds-of-code",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2017-11-29T17:35:03Z",
+      "pullRequests": { "totalCount": 827 },
+      "releases": { "totalCount": 4 },
+      "updatedAt": "2020-02-20T01:50:52Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 215 },
+      "totalIssues": { "totalCount": 220 },
+      "stargazers": { "totalCount": 54680 }
     },
     {
       "nameWithOwner": "mui-org/material-ui",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
-    },
-    {
-      "nameWithOwner": "jquery/jquery",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2014-08-18T19:11:54Z",
+      "pullRequests": { "totalCount": 9171 },
+      "releases": { "totalCount": 248 },
+      "updatedAt": "2020-02-20T01:48:07Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 10191 },
+      "totalIssues": { "totalCount": 10527 },
+      "stargazers": { "totalCount": 54645 }
     },
     {
       "nameWithOwner": "webpack/webpack",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2012-03-10T10:08:14Z",
+      "pullRequests": { "totalCount": 3403 },
+      "releases": { "totalCount": 212 },
+      "updatedAt": "2020-02-20T01:59:20Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 6534 },
+      "totalIssues": { "totalCount": 6899 },
+      "stargazers": { "totalCount": 52972 }
+    },
+    {
+      "nameWithOwner": "jquery/jquery",
+      "createdAt": "2009-04-03T15:20:14Z",
+      "pullRequests": { "totalCount": 2583 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T00:44:03Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 1894 },
+      "totalIssues": { "totalCount": 1964 },
+      "stargazers": { "totalCount": 52966 }
     },
     {
       "nameWithOwner": "reduxjs/redux",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UyODc=", "name": "TypeScript" }
+      "createdAt": "2015-05-29T23:53:15Z",
+      "pullRequests": { "totalCount": 1942 },
+      "releases": { "totalCount": 61 },
+      "updatedAt": "2020-02-19T23:07:03Z",
+      "primaryLanguage": { "name": "TypeScript" },
+      "closedIssues": { "totalCount": 1711 },
+      "totalIssues": { "totalCount": 1739 },
+      "stargazers": { "totalCount": 52254 }
     },
     {
       "nameWithOwner": "nvbn/thefuck",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDU=", "name": "Python" }
+      "createdAt": "2015-04-08T15:08:04Z",
+      "pullRequests": { "totalCount": 512 },
+      "releases": { "totalCount": 14 },
+      "updatedAt": "2020-02-20T00:15:52Z",
+      "primaryLanguage": { "name": "Python" },
+      "closedIssues": { "totalCount": 336 },
+      "totalIssues": { "totalCount": 519 },
+      "stargazers": { "totalCount": 52121 }
     },
-    { "nameWithOwner": "vuejs/awesome-vue", "primaryLanguage": null },
+    {
+      "nameWithOwner": "vuejs/awesome-vue",
+      "createdAt": "2015-10-20T00:16:14Z",
+      "pullRequests": { "totalCount": 2981 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T00:58:42Z",
+      "primaryLanguage": null,
+      "closedIssues": { "totalCount": 74 },
+      "totalIssues": { "totalCount": 160 },
+      "stargazers": { "totalCount": 52090 }
+    },
     {
       "nameWithOwner": "avelino/awesome-go",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxOTA=", "name": "Go" }
+      "createdAt": "2014-07-06T13:42:15Z",
+      "pullRequests": { "totalCount": 2753 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T02:00:13Z",
+      "primaryLanguage": { "name": "Go" },
+      "closedIssues": { "totalCount": 203 },
+      "totalIssues": { "totalCount": 211 },
+      "stargazers": { "totalCount": 52040 }
     },
     {
       "nameWithOwner": "atom/atom",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2012-01-20T18:18:21Z",
+      "pullRequests": { "totalCount": 4627 },
+      "releases": { "totalCount": 506 },
+      "updatedAt": "2020-02-20T02:02:18Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 14961 },
+      "totalIssues": { "totalCount": 15441 },
+      "stargazers": { "totalCount": 51180 }
     },
     {
       "nameWithOwner": "apple/swift",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDI=", "name": "C++" }
+      "createdAt": "2015-10-23T21:15:07Z",
+      "pullRequests": { "totalCount": 29817 },
+      "releases": { "totalCount": 19 },
+      "updatedAt": "2020-02-20T01:36:45Z",
+      "primaryLanguage": { "name": "C++" },
+      "closedIssues": { "totalCount": 0 },
+      "totalIssues": { "totalCount": 0 },
+      "stargazers": { "totalCount": 50660 }
     },
     {
       "nameWithOwner": "hakimel/reveal.js",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2011-06-07T18:54:22Z",
+      "pullRequests": { "totalCount": 831 },
+      "releases": { "totalCount": 28 },
+      "updatedAt": "2020-02-20T00:14:25Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 1294 },
+      "totalIssues": { "totalCount": 1755 },
+      "stargazers": { "totalCount": 50367 }
     },
     {
       "nameWithOwner": "MisterBooo/LeetCodeAnimation",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNTg=", "name": "Java" }
+      "createdAt": "2018-12-06T08:01:22Z",
+      "pullRequests": { "totalCount": 11 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:58:07Z",
+      "primaryLanguage": { "name": "Java" },
+      "closedIssues": { "totalCount": 26 },
+      "totalIssues": { "totalCount": 27 },
+      "stargazers": { "totalCount": 49923 }
     },
     {
       "nameWithOwner": "PanJiaChen/vue-element-admin",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2U0ODM=", "name": "Vue" }
+      "createdAt": "2017-04-17T03:35:49Z",
+      "pullRequests": { "totalCount": 429 },
+      "releases": { "totalCount": 45 },
+      "updatedAt": "2020-02-20T02:04:29Z",
+      "primaryLanguage": { "name": "Vue" },
+      "closedIssues": { "totalCount": 2001 },
+      "totalIssues": { "totalCount": 2554 },
+      "stargazers": { "totalCount": 49416 }
     },
     {
       "nameWithOwner": "pallets/flask",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDU=", "name": "Python" }
+      "createdAt": "2010-04-06T11:11:59Z",
+      "pullRequests": { "totalCount": 1623 },
+      "releases": { "totalCount": 9 },
+      "updatedAt": "2020-02-20T00:23:02Z",
+      "primaryLanguage": { "name": "Python" },
+      "closedIssues": { "totalCount": 1847 },
+      "totalIssues": { "totalCount": 1866 },
+      "stargazers": { "totalCount": 48956 }
     },
     {
       "nameWithOwner": "socketio/socket.io",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2010-03-11T18:24:48Z",
+      "pullRequests": { "totalCount": 737 },
+      "releases": { "totalCount": 18 },
+      "updatedAt": "2020-02-20T01:42:12Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 2352 },
+      "totalIssues": { "totalCount": 2801 },
+      "stargazers": { "totalCount": 48797 }
     },
     {
       "nameWithOwner": "shadowsocks/shadowsocks-windows",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UyMzI=", "name": "C#" }
+      "createdAt": "2013-01-14T07:54:16Z",
+      "pullRequests": { "totalCount": 356 },
+      "releases": { "totalCount": 44 },
+      "updatedAt": "2020-02-20T01:33:07Z",
+      "primaryLanguage": { "name": "C#" },
+      "closedIssues": { "totalCount": 2384 },
+      "totalIssues": { "totalCount": 2433 },
+      "stargazers": { "totalCount": 47525 }
     },
     {
       "nameWithOwner": "expressjs/express",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2009-06-26T18:56:01Z",
+      "pullRequests": { "totalCount": 953 },
+      "releases": { "totalCount": 140 },
+      "updatedAt": "2020-02-20T01:23:05Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 3107 },
+      "totalIssues": { "totalCount": 3227 },
+      "stargazers": { "totalCount": 47402 }
     },
     {
       "nameWithOwner": "Semantic-Org/Semantic-UI",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2013-04-08T23:32:04Z",
+      "pullRequests": { "totalCount": 862 },
+      "releases": { "totalCount": 153 },
+      "updatedAt": "2020-02-20T00:31:51Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 5203 },
+      "totalIssues": { "totalCount": 6071 },
+      "stargazers": { "totalCount": 47346 }
     },
     {
       "nameWithOwner": "django/django",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDU=", "name": "Python" }
+      "createdAt": "2012-04-28T02:47:18Z",
+      "pullRequests": { "totalCount": 12457 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T01:40:30Z",
+      "primaryLanguage": { "name": "Python" },
+      "closedIssues": { "totalCount": 0 },
+      "totalIssues": { "totalCount": 0 },
+      "stargazers": { "totalCount": 47302 }
     },
     {
       "nameWithOwner": "chartjs/Chart.js",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2013-03-17T23:56:36Z",
+      "pullRequests": { "totalCount": 2123 },
+      "releases": { "totalCount": 43 },
+      "updatedAt": "2020-02-20T01:51:09Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 4624 },
+      "totalIssues": { "totalCount": 4977 },
+      "stargazers": { "totalCount": 47274 }
     },
     {
       "nameWithOwner": "elastic/elasticsearch",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNTg=", "name": "Java" }
+      "createdAt": "2010-02-08T13:20:56Z",
+      "pullRequests": { "totalCount": 29715 },
+      "releases": { "totalCount": 18 },
+      "updatedAt": "2020-02-20T02:02:19Z",
+      "primaryLanguage": { "name": "Java" },
+      "closedIssues": { "totalCount": 20505 },
+      "totalIssues": { "totalCount": 22702 },
+      "stargazers": { "totalCount": 47084 }
     },
     {
       "nameWithOwner": "keras-team/keras",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDU=", "name": "Python" }
-    },
-    {
-      "nameWithOwner": "jakubroztocil/httpie",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDU=", "name": "Python" }
-    },
-    {
-      "nameWithOwner": "storybookjs/storybook",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UyODc=", "name": "TypeScript" }
-    },
-    {
-      "nameWithOwner": "typicode/json-server",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2015-03-28T00:35:42Z",
+      "pullRequests": { "totalCount": 3881 },
+      "releases": { "totalCount": 22 },
+      "updatedAt": "2020-02-20T02:01:43Z",
+      "primaryLanguage": { "name": "Python" },
+      "closedIssues": { "totalCount": 7100 },
+      "totalIssues": { "totalCount": 9906 },
+      "stargazers": { "totalCount": 46858 }
     },
     {
       "nameWithOwner": "chrislgarry/Apollo-11",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UyMzY=", "name": "Assembly" }
+      "createdAt": "2014-04-03T15:45:02Z",
+      "pullRequests": { "totalCount": 278 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T02:03:09Z",
+      "primaryLanguage": { "name": "Assembly" },
+      "closedIssues": { "totalCount": 254 },
+      "totalIssues": { "totalCount": 314 },
+      "stargazers": { "totalCount": 46228 }
+    },
+    {
+      "nameWithOwner": "jakubroztocil/httpie",
+      "createdAt": "2012-02-25T12:39:13Z",
+      "pullRequests": { "totalCount": 242 },
+      "releases": { "totalCount": 32 },
+      "updatedAt": "2020-02-20T01:37:57Z",
+      "primaryLanguage": { "name": "Python" },
+      "closedIssues": { "totalCount": 454 },
+      "totalIssues": { "totalCount": 590 },
+      "stargazers": { "totalCount": 45806 }
+    },
+    {
+      "nameWithOwner": "storybookjs/storybook",
+      "createdAt": "2016-03-18T04:23:44Z",
+      "pullRequests": { "totalCount": 4984 },
+      "releases": { "totalCount": 455 },
+      "updatedAt": "2020-02-20T02:00:04Z",
+      "primaryLanguage": { "name": "TypeScript" },
+      "closedIssues": { "totalCount": 4382 },
+      "totalIssues": { "totalCount": 4866 },
+      "stargazers": { "totalCount": 45629 }
+    },
+    {
+      "nameWithOwner": "typicode/json-server",
+      "createdAt": "2013-11-27T13:21:13Z",
+      "pullRequests": { "totalCount": 239 },
+      "releases": { "totalCount": 6 },
+      "updatedAt": "2020-02-20T01:47:15Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 385 },
+      "totalIssues": { "totalCount": 834 },
+      "stargazers": { "totalCount": 45611 }
     },
     {
       "nameWithOwner": "spring-projects/spring-boot",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNTg=", "name": "Java" }
+      "createdAt": "2012-10-19T15:02:57Z",
+      "pullRequests": { "totalCount": 3999 },
+      "releases": { "totalCount": 48 },
+      "updatedAt": "2020-02-20T01:29:19Z",
+      "primaryLanguage": { "name": "Java" },
+      "closedIssues": { "totalCount": 15703 },
+      "totalIssues": { "totalCount": 16129 },
+      "stargazers": { "totalCount": 45485 }
     },
     {
       "nameWithOwner": "zeit/next.js",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2016-10-05T23:32:51Z",
+      "pullRequests": { "totalCount": 4750 },
+      "releases": { "totalCount": 565 },
+      "updatedAt": "2020-02-20T02:03:28Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 5480 },
+      "totalIssues": { "totalCount": 5764 },
+      "stargazers": { "totalCount": 45114 }
     },
     {
       "nameWithOwner": "rails/rails",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDE=", "name": "Ruby" }
+      "createdAt": "2008-04-11T02:19:47Z",
+      "pullRequests": { "totalCount": 24897 },
+      "releases": { "totalCount": 15 },
+      "updatedAt": "2020-02-19T23:59:40Z",
+      "primaryLanguage": { "name": "Ruby" },
+      "closedIssues": { "totalCount": 13063 },
+      "totalIssues": { "totalCount": 13461 },
+      "stargazers": { "totalCount": 45069 }
     },
     {
       "nameWithOwner": "netdata/netdata",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDk=", "name": "C" }
+      "createdAt": "2013-06-17T18:39:10Z",
+      "pullRequests": { "totalCount": 3364 },
+      "releases": { "totalCount": 27 },
+      "updatedAt": "2020-02-20T01:47:48Z",
+      "primaryLanguage": { "name": "C" },
+      "closedIssues": { "totalCount": 4073 },
+      "totalIssues": { "totalCount": 4765 },
+      "stargazers": { "totalCount": 44937 }
     },
     {
       "nameWithOwner": "denoland/deno",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UyODc=", "name": "TypeScript" }
+      "createdAt": "2018-05-15T01:34:26Z",
+      "pullRequests": { "totalCount": 2522 },
+      "releases": { "totalCount": 68 },
+      "updatedAt": "2020-02-20T01:20:00Z",
+      "primaryLanguage": { "name": "TypeScript" },
+      "closedIssues": { "totalCount": 1159 },
+      "totalIssues": { "totalCount": 1480 },
+      "stargazers": { "totalCount": 44683 }
     },
     {
       "nameWithOwner": "tonsky/FiraCode",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxODA=", "name": "Clojure" }
+      "createdAt": "2014-11-11T19:32:38Z",
+      "pullRequests": { "totalCount": 120 },
+      "releases": { "totalCount": 20 },
+      "updatedAt": "2020-02-20T02:04:56Z",
+      "primaryLanguage": { "name": "Clojure" },
+      "closedIssues": { "totalCount": 602 },
+      "totalIssues": { "totalCount": 826 },
+      "stargazers": { "totalCount": 44555 }
     },
     {
       "nameWithOwner": "h5bp/html5-boilerplate",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2010-01-24T18:03:24Z",
+      "pullRequests": { "totalCount": 1010 },
+      "releases": { "totalCount": 29 },
+      "updatedAt": "2020-02-20T01:59:27Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 1153 },
+      "totalIssues": { "totalCount": 1155 },
+      "stargazers": { "totalCount": 44030 }
     },
     {
       "nameWithOwner": "adam-p/markdown-here",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2012-05-13T03:27:22Z",
+      "pullRequests": { "totalCount": 57 },
+      "releases": { "totalCount": 11 },
+      "updatedAt": "2020-02-20T01:04:29Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 287 },
+      "totalIssues": { "totalCount": 533 },
+      "stargazers": { "totalCount": 43898 }
     },
     {
       "nameWithOwner": "ElemeFE/element",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2U0ODM=", "name": "Vue" }
+      "createdAt": "2016-09-03T06:19:26Z",
+      "pullRequests": { "totalCount": 4256 },
+      "releases": { "totalCount": 126 },
+      "updatedAt": "2020-02-19T23:22:45Z",
+      "primaryLanguage": { "name": "Vue" },
+      "closedIssues": { "totalCount": 13295 },
+      "totalIssues": { "totalCount": 14548 },
+      "stargazers": { "totalCount": 43829 }
     },
     {
       "nameWithOwner": "resume/resume.github.com",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2011-02-06T13:39:55Z",
+      "pullRequests": { "totalCount": 173 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-19T22:14:52Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 54 },
+      "totalIssues": { "totalCount": 83 },
+      "stargazers": { "totalCount": 43659 }
     },
     {
       "nameWithOwner": "h5bp/Front-end-Developer-Interview-Questions",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2U0MTc=", "name": "HTML" }
+      "createdAt": "2012-02-09T23:34:10Z",
+      "pullRequests": { "totalCount": 453 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-19T23:23:52Z",
+      "primaryLanguage": { "name": "HTML" },
+      "closedIssues": { "totalCount": 92 },
+      "totalIssues": { "totalCount": 97 },
+      "stargazers": { "totalCount": 43650 }
     },
     {
       "nameWithOwner": "josephmisiti/awesome-machine-learning",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDU=", "name": "Python" }
+      "createdAt": "2014-07-15T19:11:19Z",
+      "pullRequests": { "totalCount": 599 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-19T18:54:01Z",
+      "primaryLanguage": { "name": "Python" },
+      "closedIssues": { "totalCount": 61 },
+      "totalIssues": { "totalCount": 61 },
+      "stargazers": { "totalCount": 43575 }
     },
     {
       "nameWithOwner": "lodash/lodash",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2012-04-07T04:11:46Z",
+      "pullRequests": { "totalCount": 1057 },
+      "releases": { "totalCount": 2 },
+      "updatedAt": "2020-02-20T01:38:05Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 3567 },
+      "totalIssues": { "totalCount": 3599 },
+      "stargazers": { "totalCount": 43562 }
     },
     {
       "nameWithOwner": "xingshaocheng/architect-awesome",
-      "primaryLanguage": null
+      "createdAt": "2018-04-06T13:30:58Z",
+      "pullRequests": { "totalCount": 64 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T02:04:44Z",
+      "primaryLanguage": null,
+      "closedIssues": { "totalCount": 18 },
+      "totalIssues": { "totalCount": 62 },
+      "stargazers": { "totalCount": 43501 }
     },
     {
       "nameWithOwner": "moment/moment",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2011-03-01T02:46:06Z",
+      "pullRequests": { "totalCount": 1812 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-19T20:19:46Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 3220 },
+      "totalIssues": { "totalCount": 3567 },
+      "stargazers": { "totalCount": 43374 }
     },
     {
       "nameWithOwner": "rust-lang/rust",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UyNDk=", "name": "Rust" }
+      "createdAt": "2010-06-16T20:39:03Z",
+      "pullRequests": { "totalCount": 36104 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-20T02:00:34Z",
+      "primaryLanguage": { "name": "Rust" },
+      "closedIssues": { "totalCount": 27901 },
+      "totalIssues": { "totalCount": 33126 },
+      "stargazers": { "totalCount": 42690 }
     },
     {
       "nameWithOwner": "gatsbyjs/gatsby",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDA=", "name": "JavaScript" }
+      "createdAt": "2015-05-21T22:43:05Z",
+      "pullRequests": { "totalCount": 12106 },
+      "releases": { "totalCount": 74 },
+      "updatedAt": "2020-02-19T23:12:54Z",
+      "primaryLanguage": { "name": "JavaScript" },
+      "closedIssues": { "totalCount": 8882 },
+      "totalIssues": { "totalCount": 9470 },
+      "stargazers": { "totalCount": 42320 }
     },
     {
       "nameWithOwner": "bitcoin/bitcoin",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDI=", "name": "C++" }
+      "createdAt": "2010-12-19T15:16:43Z",
+      "pullRequests": { "totalCount": 12652 },
+      "releases": { "totalCount": 30 },
+      "updatedAt": "2020-02-20T00:48:34Z",
+      "primaryLanguage": { "name": "C++" },
+      "closedIssues": { "totalCount": 4484 },
+      "totalIssues": { "totalCount": 5245 },
+      "stargazers": { "totalCount": 42267 }
     },
     {
       "nameWithOwner": "opencv/opencv",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDI=", "name": "C++" }
+      "createdAt": "2012-07-19T09:40:17Z",
+      "pullRequests": { "totalCount": 10336 },
+      "releases": { "totalCount": 42 },
+      "updatedAt": "2020-02-20T00:21:29Z",
+      "primaryLanguage": { "name": "C++" },
+      "closedIssues": { "totalCount": 4554 },
+      "totalIssues": { "totalCount": 6255 },
+      "stargazers": { "totalCount": 42172 }
     },
     {
       "nameWithOwner": "kdn251/interviews",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNTg=", "name": "Java" }
+      "createdAt": "2017-02-14T18:19:25Z",
+      "pullRequests": { "totalCount": 114 },
+      "releases": { "totalCount": 0 },
+      "updatedAt": "2020-02-19T23:54:13Z",
+      "primaryLanguage": { "name": "Java" },
+      "closedIssues": { "totalCount": 15 },
+      "totalIssues": { "totalCount": 39 },
+      "stargazers": { "totalCount": 42010 }
     },
     {
       "nameWithOwner": "ReactiveX/RxJava",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNTg=", "name": "Java" }
+      "createdAt": "2013-01-08T20:11:48Z",
+      "pullRequests": { "totalCount": 3401 },
+      "releases": { "totalCount": 192 },
+      "updatedAt": "2020-02-19T21:42:56Z",
+      "primaryLanguage": { "name": "Java" },
+      "closedIssues": { "totalCount": 2865 },
+      "totalIssues": { "totalCount": 2871 },
+      "stargazers": { "totalCount": 41874 }
     },
     {
       "nameWithOwner": "ansible/ansible",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxNDU=", "name": "Python" }
+      "createdAt": "2012-03-06T14:58:02Z",
+      "pullRequests": { "totalCount": 41159 },
+      "releases": { "totalCount": 3 },
+      "updatedAt": "2020-02-20T01:33:16Z",
+      "primaryLanguage": { "name": "Python" },
+      "closedIssues": { "totalCount": 21927 },
+      "totalIssues": { "totalCount": 26261 },
+      "stargazers": { "totalCount": 41834 }
     },
     {
       "nameWithOwner": "gohugoio/hugo",
-      "primaryLanguage": { "id": "MDg6TGFuZ3VhZ2UxOTA=", "name": "Go" }
+      "createdAt": "2013-07-04T15:26:26Z",
+      "pullRequests": { "totalCount": 2531 },
+      "releases": { "totalCount": 111 },
+      "updatedAt": "2020-02-20T00:40:46Z",
+      "primaryLanguage": { "name": "Go" },
+      "closedIssues": { "totalCount": 3943 },
+      "totalIssues": { "totalCount": 4359 },
+      "stargazers": { "totalCount": 41722 }
     }
   ]
 }

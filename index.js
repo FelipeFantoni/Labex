@@ -2,7 +2,7 @@ const axios = require("axios");
 const fs = require("fs");
 
 axios.defaults.headers.common["Authorization"] =
-  "Bearer 4a812102a155a55014d92388d2e7cea254478569";
+  "Bearer 9bb7b70e88eb66e2030a9fa0b2d508b8a8c571e9";
 
 const getResultado = async () => {
   try {
@@ -11,9 +11,25 @@ const getResultado = async () => {
               nodes {
                 ... on Repository {
                   nameWithOwner
+                  createdAt
+                  pullRequests {
+                    totalCount
+                  }
+                  releases {
+                    totalCount
+                  }
+                  updatedAt
                   primaryLanguage {
-                    id: id
-                    name: name
+                    name
+                  }
+                  closedIssues: issues(states: CLOSED) {
+                    totalCount
+                  }
+                  totalIssues: issues {
+                    totalCount
+                  }
+                  stargazers {
+                    totalCount
                   }
                 }
               }
