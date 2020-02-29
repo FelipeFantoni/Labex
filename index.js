@@ -3,13 +3,12 @@ const fs = require("fs");
 const Json2Csv = require("json2csv").parse;
 var after = "";
 var resposta = [];
-var pagina = 0;
 var atual = 0;
-const limite = 20;
 var csv;
+const limite = 1000;
 
 axios.defaults.headers.common["Authorization"] =
-  "Bearer 740fe9617dbd29e70f4037d48f61ea7d5eb97d37";
+  "Bearer 0fb210b936e4d84aee60a112dud28jjdndmeog7";
 
 const getResultado = async () => {
   try {
@@ -50,23 +49,36 @@ const getResultado = async () => {
       query: query
     });
     const resultado = consulta.data.data.search;
-    if (resultado.pageInfo.hasNextPage && atual <= limite) {
+    if (resultado.pageInfo.hasNextPage || atual < limite) {
       after = `, after: "${resultado.pageInfo.endCursor}"`;
       resposta = resposta.concat(resultado.nodes);
-      pagina += 20;
       atual += 20;
-      console.log("Página número: " + pagina);
+      console.log("Dados retornados: " + atual);
       await getResultado();
     } else {
-      //fs.writeFile("resultadoConsulta.json", JSON.stringify(resposta), err => console.log(err));
-      csv = Json2Csv(resposta, {fields: ["nameWithOwner", "createdAt", "pullRequests", "releases", "updatedAt", "primaryLanguage", "closedIssues", "totalIssues", "stargazers"]});
-      fs.writeFileSync("resultadoFinal.csv", csv);
-      console.log("Arquivo criado");
+      criaArquivoCsv(resposta);
     }
   } catch (e) {
-    console.log(e);
-    await getResultado();
+    e.response.status == 502 ? await getResultado() : console.log(e);
   }
 };
+
+function criaArquivoCsv(json) {
+  csv = Json2Csv(json, {
+    fields: [
+      "nameWithOwner",
+      "createdAt",
+      "pullRequests(Merged)",
+      "releases",
+      "updatedAt",
+      "primaryLanguage",
+      "closedIssues",
+      "totalIssues",
+      "stargazers"
+    ]
+  });
+  fs.writeFileSync("resultadoFinal.csv", csv);
+  console.log("Arquivo criado");
+}
 
 getResultado();
