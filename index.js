@@ -68,7 +68,7 @@ function criaArquivoCsv(json) {
     fields: [
       "nameWithOwner",
       "createdAt",
-      "pullRequests(Merged)",
+      "pullRequests",
       "releases",
       "updatedAt",
       "primaryLanguage",
